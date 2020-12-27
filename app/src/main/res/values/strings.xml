@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Movie Application</string>
+    <string name="tab_text_1">Movie</string>
+    <string name="tab_text_2">TV Show</string>
+    <string name="Language">Language</string>
+    <string name="description" translatable="false">normal description</string>
+
+
+    <string name="lorem">lorem</string>
+
+</resources>
